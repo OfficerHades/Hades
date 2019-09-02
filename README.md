@@ -1,5 +1,5 @@
 # Hades
-stufff
+
 Lucid blog url: lucid.blog/OfficerHades/post/another-step-forward-179
 
 
